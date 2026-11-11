@@ -1,4 +1,3 @@
-from sys import exception
 
 # age = int(input('Enter Your Age :'))
 # price = int(input('Enter Money :'))
